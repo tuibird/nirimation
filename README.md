@@ -5,5 +5,12 @@ A host for Niri Animations configurations to be shared using custom shaders buil
 > We don't take animation configs that are not **Custom Shaders!**
 This means that they must be written in GLSL or any other graphics programming.
 
+# How to use these.
+you need a basic knowledge of how config files work
+usually you're niri config should be in `~/.config/niri/config.kdl`
+open it and scroll down until you see a `animations` line inside of it, you can copy and paste different configs into it.
+
 You are allowed to ask for a animation, contribute, and download any of them all you like
 Enjoy them!
+
+
